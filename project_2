@@ -1,0 +1,24 @@
+pipeline {
+   agent any 
+       stages {
+           stage ("this code is used to know) {
+              steps {
+              }
+         }
+           stage ("this is the code") {
+              steps {
+              }
+         }
+           stage ("have a code in repo") {
+               steps {
+               }
+         }
+            stage ("deploy the code") {
+                steps {
+                }
+         }
+         
+                }
+         }       
+             
+           
